@@ -1,3 +1,11 @@
+#Assambly Emulator built with C++ for C.S. Course
+Instructions of ussage below in spanish
+
+###Project Developed by:
+@CarlosMtz1281
+@NicoTC-04
+
+
 Usar codigo con la sintaxis encontrada en los siguientes casos de pruebas
 
 Casos de Prueba
